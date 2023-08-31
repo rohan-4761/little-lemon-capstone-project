@@ -34,7 +34,7 @@ This app is designed for customers of Little Lemon Restaurant who prefer the con
 - Demonstrates dynamic UI updates using state management.
 
 
-## What I have learnet
+## What I have learnt
 
 Building this project using Kotlin and Jetpack Compose taught me:
 
