@@ -4,7 +4,7 @@ This repository hosts the Android App Capstone Project of the Meta Android Devel
 
 ## Authors
 
-- [@Krystynka86]([https://www.github.com/eliehanna2](https://github.com/Krystynka86))
+- [@rohan-4761]([https://www.github.com/rohan-4761](https://github.com/rohan-4761))
 
 ## Design
 
